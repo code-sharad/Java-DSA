@@ -4,8 +4,6 @@
 
 `300+ Coding Questions on All Important Topics (asked by Top Companies)`
 
-<img align="right" alt="Coding" width="250" src="https://th.bing.com/th/id/OIP.umXj7kc766dOPpjavaBmLQHaEo?pid=ImgDet&rs=1">
-
 > > ALL TOPICS COVERED
 
 - [x] **Variables & Data types**
